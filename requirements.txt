@@ -1,0 +1,10 @@
+Babel==2.7.0
+Django==2.2.5
+django-localflavor==2.2
+django-phone-field==1.8.0
+django-phonenumber-field==3.0.1
+djangorestframework==3.10.3
+phonenumbers==8.10.19
+python-stdnum==1.11
+pytz==2019.2
+sqlparse==0.3.0
